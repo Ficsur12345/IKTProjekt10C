@@ -5,6 +5,7 @@ body {
 	max-width: 1000px;
 	text-align: justify;
 	color: #522F00;
+	background-color: #FFF5E8;
 }
 
 p:first-letter {
@@ -21,6 +22,9 @@ header {
 h1{
 	color: #B16400;
 }
+h2{
+	color: #B16400;
+}
 
 img {
 	border: 2px solid #FFEBD0;
@@ -33,6 +37,9 @@ img {
 
 .balra {
 	float: left;
+}
+.jobbra{
+	float: right;
 }
 
 
