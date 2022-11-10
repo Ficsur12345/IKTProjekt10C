@@ -1,0 +1,4 @@
+function szamol()
+{
+    alert("ok")
+}
